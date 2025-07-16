@@ -7,5 +7,8 @@
   "timezone": "America/New_York",
   "schedule": [
     "at 6am on the first day of the month"
+  ],
+  "enabledManagers": [
+    "bazelisk"
   ]
 }
