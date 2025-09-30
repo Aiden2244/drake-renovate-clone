@@ -30,3 +30,6 @@
 
 # User-specified configuration
 /user.bazelrc
+
+# Import script
+import_upstream_changes.sh
