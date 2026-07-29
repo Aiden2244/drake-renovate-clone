@@ -182,7 +182,7 @@ bazel_dep(
 
 bazel_dep(
     name = "gflags",
-    version = "2.2.2",
+    version = "2.3.1",
     # TODO(jwnimmer-tri) Try to set dev_dependency = True, but at the moment
     # that prevents downstream from using even non-test code, maybe due to our
     # bazel query-based tests?
