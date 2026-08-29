@@ -176,7 +176,7 @@ use_repo(maven, "lcm_maven")
 
 bazel_dep(
     name = "buildifier_prebuilt",
-    version = "8.2.0.2",
+    version = "8.5.1.4",
     dev_dependency = True,
 )
 
